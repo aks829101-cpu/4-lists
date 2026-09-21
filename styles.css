@@ -1,2 +1,13 @@
 html 
 {background-color: burlywood;}
+
+
+. letters-list {
+    list-style-type: lower-alpha;
+}
+
+. nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+}
